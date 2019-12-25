@@ -10,3 +10,6 @@
 [submodule "assignments/hw1-spark-pagerank"]
 	path = assignments/hw1-spark-pagerank
 	url = https://github.com/calvincodes/cs744-page-rank.git
+[submodule "assignments/hw2-tensorflow"]
+	path = assignments/hw2-tensorflow
+	url = https://github.com/calvincodes/cs744-tensorflow-sgd.git
