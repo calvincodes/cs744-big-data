@@ -4,6 +4,12 @@ This is just a collection of my solutions and project repository. The solutions 
 ## Lecture Slides
 The lecture slides were created and used by [Prof. Shivaram Venkataraman](https://shivaram.org/) while instructing this course during Fall 2019. If not archived, the course page can be found [here](http://pages.cs.wisc.edu/~shivaram/cs744-fa19/).
 
+## Paper Reviews
+[Click here](https://drive.google.com/open?id=1JDCGvYWI0FHtS5lIRvPAg6eLTAkzAjs2) to view my paper reviews.
+
+## In-Class Discussions
+[Click here](https://drive.google.com/open?id=1hgRXBX07hGXPn3nqxEzbZZRbIgsDtfMp) to view my in-class discussions.
+
 ## My grades for these solutions
 
 | Assignment    | Score         | Remarks |
