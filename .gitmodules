@@ -10,3 +10,6 @@
 [submodule "project-aws-firecracker-study"]
 	path = project-aws-firecracker-study
 	url = https://github.com/v-anshu/aws-firecracker-study.git
+[submodule "assignments/hw1-spark-simple-app"]
+	path = assignments/hw1-spark-simple-app
+	url = https://github.com/calvincodes/cs744-simple-spark-app.git
