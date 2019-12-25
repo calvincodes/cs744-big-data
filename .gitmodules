@@ -1,9 +1,3 @@
-[submodule "hw1-spark-pagerank"]
-	path = hw1-spark-pagerank
-	url = https://github.com/calvincodes/cs744-page-rank.git
-[submodule "hw1-spark-simple-app"]
-	path = hw1-spark-simple-app
-	url = https://github.com/calvincodes/cs744-simple-spark-app.git
 [submodule "hw2-tensorflow"]
 	path = hw2-tensorflow
 	url = https://github.com/calvincodes/cs744-tensorflow-sgd.git
