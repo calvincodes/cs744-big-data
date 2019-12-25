@@ -1,5 +1,5 @@
 # CS 744 Big Data (Fall 2019)
-This repository is just a collection of my solutions. The solutions might not be correct.
+This is just a collection of my solutions and project repository. The solutions might not be correct.
 
 ## My grades for these solutions
 
