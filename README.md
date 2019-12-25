@@ -1,6 +1,9 @@
 # CS 744 Big Data (Fall 2019)
 This is just a collection of my solutions and project repository. The solutions might not be correct.
 
+## Lecture Slides
+The lecture slides were created and used by [Prof. Shivaram Venkataraman](https://shivaram.org/) while instructing this course during Fall 2019. If not archived, the course page can be found [here](http://pages.cs.wisc.edu/~shivaram/cs744-fa19/).
+
 ## My grades for these solutions
 
 | Assignment    | Score         | Remarks |
