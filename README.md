@@ -10,7 +10,7 @@ The lecture slides were created and used by [Prof. Shivaram Venkataraman](https:
 ## In-Class Discussions
 [Click here](https://drive.google.com/open?id=1hgRXBX07hGXPn3nqxEzbZZRbIgsDtfMp) to view my in-class discussions.
 
-## My grades for these solutions
+## My assignment grades
 
 | Assignment    | Score         | Remarks |
 | ------------- | ------------- | ------- |
